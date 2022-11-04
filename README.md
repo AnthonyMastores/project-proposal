@@ -1,3 +1,6 @@
-# Project Proposal for Web Development Class
+# Anthony Mastores 
+# Email: anthonyjmastores@lewisu.edu
 
-It is hosted here: https://icy-glacier-08c53d910.2.azurestaticapps.net/
+# URL: 
+
+
